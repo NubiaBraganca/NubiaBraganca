@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nubia Braganca 😁
+## Bem-vindo(a) ao perfil da Nubia Braganca 😁
 
  <div>
    <a href="https://github.com/nubiabraganca">
